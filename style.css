@@ -1,0 +1,17 @@
+#left{
+	font-size: 3em;
+	float: left;
+	padding: 70px;
+}
+
+#place{
+	width: 900px;
+	margin: 0 auto;
+}
+
+input[type=text] {
+	width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
